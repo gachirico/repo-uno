@@ -1,4 +1,4 @@
-nombre = "Fernando"
+nombre = "Soy"
 apellido = "Gacha"
 edad = '20'
 ciudad = "Tunja"
